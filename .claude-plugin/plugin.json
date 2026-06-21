@@ -1,0 +1,17 @@
+{
+  "name": "memory-skill",
+  "description": "跨对话记忆系统——保存结构化对话记忆，下次对话恢复上下文，每个项目独立存储",
+  "author": {
+    "name": "donk569",
+    "email": "donk569@github.com"
+  },
+  "homepage": "https://github.com/donk569/memory-skill",
+  "repository": "https://github.com/donk569/memory-skill",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "context",
+    "session",
+    "productivity"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "memory-skill-marketplace",
+  "description": "跨对话记忆系统——保存结构化对话记忆，下次对话恢复上下文",
+  "owner": {
+    "name": "donk569"
+  },
+  "plugins": [
+    {
+      "name": "memory-skill",
+      "description": "跨对话记忆系统——在对话结束时保存结构化记忆，下次对话恢复上下文。每个项目独立存储。",
+      "author": {
+        "name": "donk569"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/donk569/memory-skill.git"
+      },
+      "homepage": "https://github.com/donk569/memory-skill"
+    }
+  ]
+}
