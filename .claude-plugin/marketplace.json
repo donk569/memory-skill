@@ -13,8 +13,11 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git",
-        "url": "https://github.com/donk569/memory-skill.git"
+        "source": "git-subdir",
+        "url": "https://github.com/donk569/memory-skill.git",
+        "path": ".",
+        "ref": "master",
+        "sha": "38585ed4aa72560ceb1265009cd9a040dbc754ab"
       },
       "homepage": "https://github.com/donk569/memory-skill"
     }
