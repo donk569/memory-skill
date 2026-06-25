@@ -15,7 +15,7 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/donk569/memory-skill.git",
-        "path": ".",
+        "path": "plugins/memory-skill",
         "ref": "master",
         "sha": "a8337f9c8a8f091da1c229c4bf8bef5a827f3b22"
       },
